@@ -68,3 +68,25 @@ height: 100px;
     background-color: #45a049; /* Changement de couleur au survol */
 }
 
+
+
+
+.image-container {
+    width: 300px; /* Largeur de votre image */
+    height: 200px; /* Hauteur de votre image */
+}
+
+.image-container img {
+    width: 100%; /* Pour que l'image remplisse le conteneur */
+    height: 100%; /* Pour que l'image remplisse le conteneur */
+    object-fit: cover; /* Ajuste la taille de l'image pour remplir le conteneur */
+}
+
+
+
+    .small-text {
+        font-size: 7px;
+    }
+
+
+    

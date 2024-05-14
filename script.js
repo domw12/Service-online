@@ -31,3 +31,11 @@ prevBtn.addEventListener('click', prevSlide);
 
 // Ajouter une fonctionnalité de défilement automatique
 // setInterval(nextSlide, 3000); // Décommenter cette ligne pour activer le défilement automatique
+
+
+// Copy this code in your js file.
+
+function Back()
+{
+    window.history.back();
+}
